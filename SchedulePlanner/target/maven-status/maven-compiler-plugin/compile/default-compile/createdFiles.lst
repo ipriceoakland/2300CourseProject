@@ -1,0 +1,8 @@
+com\mycompany\scheduleplanner\App$1.class
+com\mycompany\scheduleplanner\ScheduleBlock.class
+com\mycompany\scheduleplanner\App.class
+module-info.class
+com\mycompany\scheduleplanner\ScheduleConflict.class
+com\mycompany\scheduleplanner\ScheduleItem.class
+com\mycompany\scheduleplanner\ScheduleEvent.class
+com\mycompany\scheduleplanner\SystemInfo.class
